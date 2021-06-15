@@ -1,0 +1,8 @@
+tushare:
+  host: http://api.waditu.com
+  token: 
+db:
+  driver: mysql
+  data-source: root:root@tcp(localhost:3306)/
+  max-open-conns: 8
+  max-idle-conns: 8
